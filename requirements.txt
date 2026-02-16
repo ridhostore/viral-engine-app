@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+google-generativeai
+pytrends
+supabase
+apify-client
+plotly
+openpyxl
+requests
